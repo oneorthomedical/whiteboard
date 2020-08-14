@@ -39,7 +39,7 @@
     "jsdom": "^14.0.0",
     "pdfjs-dist": "^2.3.200",
     "socket.io": "2.*",
-    "uuid": "^8.1.0",
+    "uuid": "^8.2.0",
     "webdav": "^2.8.0"
   },
   "devDependencies": {
