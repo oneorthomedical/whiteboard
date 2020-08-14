@@ -38,7 +38,7 @@
     "js-yaml": "3.13.1",
     "jsdom": "^14.0.0",
     "pdfjs-dist": "^2.3.200",
-    "socket.io": "2.*",
+    "socket.io": "2.3.0",
     "uuid": "^8.1.0",
     "webdav": "^2.8.0"
   },
